@@ -1,0 +1,114 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 531 277" height="277" width="531">
+    <style type="text/css"><![CDATA[
+.st2 {fill:#1f6391;font-family:宋体;font-size:7.5pt}
+.st1 {fill:#ffffff;font-family:宋体;font-size:7.5pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-249,-251)">
+        <g transform="translate(250,280)" id="shape1">
+            <path d="M0,0L283,0L283,34L0,34L0,0z" stroke="#1bbc9d" fill="#1bbc9d"/>
+            <text class="st1">
+                <tspan x="117" y="21">任务接收器</tspan>
+            </text>
+        </g>
+        <g transform="translate(250,335)" id="shape2">
+            <path d="M0,0L283,0L283,34L0,34L0,0z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan x="104" y="21">任务解析/执行器</tspan>
+            </text>
+        </g>
+        <g transform="translate(250,402.5)" id="shape3">
+            <path d="M0,0L283,0L283,34L0,34L0,0z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan x="92" y="21">应用抽象转化、控制器</tspan>
+            </text>
+        </g>
+        <g transform="translate(552,333)" id="shape4">
+            <path d="M0,0L137,0L137,85L0,85L0,0z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan x="26" y="46.5">应用资源缓存Store</tspan>
+            </text>
+        </g>
+        <g transform="translate(392,314)" id="shape5">
+            <path d="M0,0L0,16.6" stroke="#236ea1" fill="none"/>
+            <path d="M0,21L3,15.8C2.1,16.3,1.1,16.6,0,16.6C-1.1,16.6,-2.1,16.3,-3,15.8L0,21" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(392,369)" id="shape6">
+            <path d="M0,0L0,29.1" stroke="#236ea1" fill="none"/>
+            <path d="M0,33.5L3,28.3C2.1,28.8,1.1,29.1,0,29.1C-1.1,29.1,-2.1,28.8,-3,28.3L0,33.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(552,280)" id="shape7">
+            <path d="M0,0L213,0L213,34L0,34L0,0z" stroke="#1bbc9d" fill="#1bbc9d"/>
+            <text class="st1">
+                <tspan x="89" y="21">rpc服务</tspan>
+            </text>
+        </g>
+        <g transform="translate(658.5,314)" id="shape8">
+            <path d="M0,0L0,11L-37.5,11L-37.5,14.6" stroke="#236ea1" fill="none"/>
+            <path d="M-37.5,19L-34.5,13.8C-35.4,14.3,-36.4,14.6,-37.5,14.6C-38.6,14.6,-39.6,14.3,-40.5,13.8L-37.5,19" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(339.5,252)" id="shape9">
+            <text class="st2">
+                <tspan x="17" y="16">对接消息中间件</tspan>
+            </text>
+        </g>
+        <g transform="translate(699,333)" id="shape10">
+            <path d="M0,0L71,0L71,85L0,85L0,0z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan x="11" y="46.5">应用状态机</tspan>
+            </text>
+        </g>
+        <g transform="translate(658.5,314)" id="shape11">
+            <path d="M0,0L0,11L76.3,11L76.3,14.6" stroke="#236ea1" fill="none"/>
+            <path d="M76.3,19L79.3,13.8C78.4,14.3,77.4,14.6,76.3,14.6C75.2,14.6,74.1,14.3,73.3,13.8L76.3,19" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(699,376.1)" id="shape12">
+            <path d="M0,0L-5.6,0" stroke="#236ea1" fill="none"/>
+            <path d="M-10,0L-4.8,3C-5.3,2.1,-5.6,1.1,-5.6,0C-5.6,-1.1,-5.3,-2.1,-4.8,-3L-10,0" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(552,434)">
+            <path d="M0,0L218,0L218,90L0,90L0,0z" stroke="#000000" id="shape13" fill="none" stroke-dasharray="2,5" stroke-width="4"/>
+            <g transform="translate(166,5)" id="shape14">
+                <text class="st2">
+                    <tspan x="13.5" y="8">master</tspan>
+                </text>
+            </g>
+            <g transform="translate(15,19)" id="shape15">
+                <path d="M0,0L132,0L132,24L0,24L0,0z" stroke="#527294" fill="#527294"/>
+                <text class="st1">
+                    <tspan x="12" y="15">LocalVolume-Provider</tspan>
+                </text>
+            </g>
+            <g transform="translate(15,55)" id="shape16">
+                <path d="M0,0L132,0L132,24L0,24L0,0z" stroke="#527294" fill="#527294"/>
+                <text class="st1">
+                    <tspan x="12" y="15">ShareVolume-Provider</tspan>
+                </text>
+            </g>
+            <g transform="translate(161.5,18)" id="shape17">
+                <path d="M0,0L42,0L42,61L0,61L0,0z" stroke="#527294" fill="#527294"/>
+                <text class="st1">
+                    <tspan x="11" y="34.5">统计</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(252,477)" id="shape18">
+            <path d="M0,0L279,0L279,47L0,47L0,0z" stroke="#8d9cb1" fill="#8d9cb1"/>
+            <text class="st1">
+                <tspan x="113" y="26.5">KubeClient</tspan>
+            </text>
+        </g>
+        <g transform="translate(552,376.1)" id="shape19">
+            <path d="M0,0L-11,0L-11,43.4L-14.6,43.4" stroke="#236ea1" fill="none"/>
+            <path d="M-19,43.4L-13.8,46.4C-14.3,45.5,-14.6,44.5,-14.6,43.4C-14.6,42.3,-14.3,41.3,-13.8,40.4L-19,43.4" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(392,436.5)" id="shape20">
+            <path d="M0,0L-0,36.1" stroke="#236ea1" fill="none"/>
+            <path d="M-0,40.5L3,35.3C2.1,35.8,1.1,36.1,-0,36.1C-1.1,36.1,-2.1,35.8,-3,35.3L-0,40.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round" stroke-width="1"/>
+            <rect x="-9.9" y="13.2" height="14" fill="#ffffff" width="20.4"/>
+            <text class="st2">
+                <tspan x="-10" y="24.2">控制</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
